@@ -1,0 +1,1 @@
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"Testando MKDOCS Apenas um teste","title":"Testando MKDOCS"},{"location":"#testando-mkdocs","text":"Apenas um teste","title":"Testando MKDOCS"}]}
